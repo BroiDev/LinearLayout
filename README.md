@@ -1,0 +1,2 @@
+1. Moim zdaniem 2. Najpierw LinearLayout pionowy (pierwszy poziom zagnieżdżenia), a w nim LinearLayouty poziome (drugi poziom zagnieżdżenia).
+2. Wagi: 1, 1, 2. Suma wag: 4. Pierwsze dwa przyciski zajmują po ¼, ostatni ½.
